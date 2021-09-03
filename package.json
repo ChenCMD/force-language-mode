@@ -8,6 +8,10 @@
 	"engines": {
 		"vscode": "^1.60.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ChenCMD/force-language-mode"
+	},
 	"license": "WTFPL",
 	"categories": [
 		"Other"
